@@ -1,0 +1,5 @@
+from services.postgres.models.history_results import HistoryResultsModel
+from services.postgres.models.load_test_results import LoadTestResultsModel
+from services.postgres.models.method_results import MethodResultsModel
+from services.postgres.models.ratio_results import RatioResultsModel
+from services.postgres.models.services import ServicesModel
